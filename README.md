@@ -57,6 +57,12 @@ Restart=on-failure
 [Install]
 WantedBy=multi-user.target
 ```
-3. The file `/etc/evremap/config.toml`
+3. The file `/etc/evremap/config.toml` (in this repo)
 
+## Removing Gnome Bloatware
+![image](https://github.com/jimchen2/MacBookAirConfig/assets/123833550/8b5914dc-80c3-4821-a8c4-5fb96cdbd980)
+
+## Setting Gnome Shortcuts
+
+## Disable While Typing
 
