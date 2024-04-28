@@ -13,12 +13,12 @@ So my previous laptop was System76 Darter Pro
 - Hardware: Macbook is advertized to run smoothly for 10 years. Darter Pro has some random hardware bugs(with keyboard, even when I boot to grub, no OS, some keys would randomly be remapped and cause undeterministic behaviors, and considering the laptop was pretty new(less than half a year old). Dirt easily falls into the touchpad and keyboard of Darter Pro, causing it to be dirty. Touchpad is unresponsive on tap sometimes(undeterministic). Considering it is a small company somewhere in Colorado, I cannot send my laptop there for them to repair.
 - Thermal: Macbook Air is very cool. 
  
-1. Things I don't care that much
+2. Things I don't care that much
 - Weight: MacBook Air weighs at 1.5 kg, Darter Pro weighs at 1.66 kg
 - Noise: MacBook Air is quiet, Darter Pro fan is very loud
 - Brand: While System76 is on average quite expensive, it is less recognized than Apple
 
-1. Cons
+3. Cons
 - Open-source: System76 is (and promotes) open source, while Apple is proprietary
 - ArchLinux not available: So I am using Asahi Fedora, without the AUR packages. Still decent.
 - No Microphone
