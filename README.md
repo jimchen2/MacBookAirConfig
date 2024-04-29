@@ -66,3 +66,6 @@ WantedBy=multi-user.target
 
 ## Disable While Typing
 
+## Clash Verge
+
+I compiled clash verge in the zip file.
