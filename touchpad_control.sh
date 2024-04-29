@@ -62,7 +62,6 @@ while read -r line; do
     # Read the updated state from the temporary file
     if [[ -f "$state_file" ]]; then
         state=$(cat "$state_file")
-        rm "$state_file"  # Remove the temporary file
         echo "Updated touchpad state from file: $state"  # Debugging output
     fi
     echo "Processing complete for line: $line"  # Debugging output
