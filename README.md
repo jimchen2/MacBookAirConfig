@@ -1,3 +1,5 @@
+I didn't have the Macbook Air anymore :))) I now use a ThinkPad
+
 # MacBookAirConfig
 
 This repo is for my configuration files for MacBook Air 15 inch 2023.
